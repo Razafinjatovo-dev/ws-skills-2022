@@ -59,19 +59,17 @@ Youtube, Udemy, FreeCodeCamp, W3Schools, MDN
 
 ## 🚧 Je franchis les obstacles
 
-### Point de blocage  ✔️
-BDD relationnelles 
-SQL
-Typescript
+### Point de blocage  ❌ 
+
 
 
 Description:
 
 Plan d'action : (à valider par le formateur)
 
-- action 1 : révision des bases SQL + exos ✔️
-- action 2 : entrainement utilisation ORM ✔️
-- action 3: plus de pratiques pour Typescript ✔️
+- action 1 : ❌ 
+- action 2 : ❌ 
+
 
 Résolution :
 
