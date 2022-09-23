@@ -20,8 +20,12 @@
 ### Utilisation dans un projet  ✔️
 
 [lien github](...)
+https://delivroom.netlify.app/
+https://marvelous-heroes.netlify.app/
 
 Description :
+- Récupération de données depuis api tierce 
+- Front-end en React avec gestion de states
 
 ### Utilisation en production si applicable❌ 
 
