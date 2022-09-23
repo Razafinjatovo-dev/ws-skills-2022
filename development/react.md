@@ -31,25 +31,30 @@ Description :
 
 ### Utilisation en environement professionnel  ✔️
 
+
 Description :
+ * Migration de pages WordPress vers React Js
+ * Rajout de features sur appli web de maintenance de terminaux de paiement 
 
 ## 🌐 J'utilise des ressources
 
 ### Titre
 
 - lien
+ https://beta.reactjs.org/
+ https://reactjs.org/
 - description
 
 ## 🚧 Je franchis les obstacles
 
-### Point de blocage ❌ / ✔️
-
+### Point de blocage  ✔️
+  * state management (redux, react-query)
 Description:
 
 Plan d'action : (à valider par le formateur)
 
-- action 1 ❌ / ✔️
-- action 2 ❌ / ✔️
+- action 1 : lecture doc  ✔️
+- action 2 : refactoring exos existants en utilisant react-query  ✔️
 - ...
 
 Résolution :
